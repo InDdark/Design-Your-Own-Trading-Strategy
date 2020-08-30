@@ -1,0 +1,3 @@
+The Papers highlights how a basic trading strategy with proper research can lead to a win-win situation virtually independent of the market trend.
+here the paper tries to explore the fact that if we choose two related firms the roughly move together and there exists come deviations say in their stock prices we can benefit from this scenerio here.
+basically we say that because the two firms caters to the same segments if one is values high eventually will come down and the one which is undervalued will rise so that some matric defined by taking some kind of ratio will stay roughly same, so we can sell the overvalued and buy the undervalued and leverage our portfolio such that in worst case the profit from one will offset the loss if any from other
